@@ -1,27 +1,7 @@
-HSLIDE
+#HSLIDE
 
-LOGO
+Hello, World!
 
-Get the word out
+#HSLIDE
 
-
-Markdown Presentations For Developers 
-on 
-GitHub, GitLab and Bitbucket
-
-HSLIDE
-
-GitPitch turns PITCHME.md into interactive, online slideshows.
-
-
-[ JUST LIKE THIS ONE ]
-
-HSLIDE
-
-No more Keynote.
-
-No more Powerpoint.
-
-
-
-Just Markdown. Then Git-Commit.
+The End :)
